@@ -1,2 +1,3 @@
-# java_web_server
-DevOps_project_1
+# maven-project
+
+Simple Maven Project
